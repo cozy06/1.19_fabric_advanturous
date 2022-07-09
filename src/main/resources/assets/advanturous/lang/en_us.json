@@ -1,5 +1,9 @@
 {
   "item.advanturous.raw_mithril": "Raw Mithril",
   "item.advanturous.mithril_ingot": "Mithril Ingot",
-  "item.advanturous.mithril_nugget": "Mithril Nugget"
+  "item.advanturous.pure_mithril": "Pure Mithril",
+  "item.advanturous.mithril_nugget": "Mithril Nugget",
+
+  "block.advanturous.deepslate_mithril_ore": "Deepslate Mithril Ore",
+  "block.advanturous.mithril_block": "Mithril_Block"
 }

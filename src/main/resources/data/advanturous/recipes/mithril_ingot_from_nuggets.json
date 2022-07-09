@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mithril_ingot",
+  "key": {
+    "#": {
+      "item": "advanturous:mithril_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "advanturous:mithril_ingot"
+  }
+}

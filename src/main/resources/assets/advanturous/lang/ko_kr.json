@@ -1,5 +1,9 @@
 {
-  "item.advanturous.raw_mithril": "미스릴",
+  "item.advanturous.raw_mithril": "미스릴 원석",
   "item.advanturous.mithril_ingot": "미스릴 주괴",
-  "item.advanturous.mithril_nugget": "미스릴 조각"
+  "item.advanturous.pure_mithril": "미스릴",
+  "item.advanturous.mithril_nugget": "미스릴 조각",
+
+  "block.advanturous.deepslate_mithril_ore": "심층암 미스릴 광석",
+  "block.advanturous.mithril_block": "미스릴 블럭"
 }
