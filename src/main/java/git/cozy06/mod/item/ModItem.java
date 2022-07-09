@@ -9,7 +9,13 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItem {
 
+    public static final Item RAW_MITHRIL = registerItem("raw_mithril",
+            new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
+
     public static final Item MITHRIL_INGOT = registerItem("mithril_ingot",
+            new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
+
+    public static final Item MITHRIL_NUGGET = registerItem("mithril_nugget",
             new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
 
     private static Item registerItem(String name, Item item) {
