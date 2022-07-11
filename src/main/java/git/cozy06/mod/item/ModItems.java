@@ -14,7 +14,7 @@ public class ModItems {
     public static final Item MITHRIL_INGOT = registerItem("mithril_ingot",
             new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
     public static final Item PURE_MITHRIL = registerItem("pure_mithril",
-            new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
+            new Item(new FabricItemSettings().group(ItemGroup.MATERIALS).fireproof()));
     public static final Item MITHRIL_NUGGET = registerItem("mithril_nugget",
             new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
 
